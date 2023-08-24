@@ -17,7 +17,12 @@
             Console.WriteLine($"{numero1} + {numero2} = " + (numero1 + numero2));
             Console.WriteLine($"{numero1} - {numero2} = " + (numero1 - numero2));
             Console.WriteLine($"{numero1} * {numero2} = " + (numero1 * numero2));
-            Console.WriteLine($"{0:F} / {1:F} = {2:F2}" + (numero1,numero2, divisao));
+           
+
+            if (numero2 > 0)
+                Console.WriteLine("{0:F} / {1:F} = {2:F2}", numero1, numero2, divisao);
+            else
+                Console.WriteLine("Não existe Divisão por zero");
         }
     }
 }
