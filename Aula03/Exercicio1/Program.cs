@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            int Resultado;
+            
             float numero, nA, nB, nC;
 
              Console.WriteLine("Digite o número A: ");
@@ -21,16 +21,16 @@
 
             if (numero > nC)
             {
-                Console.WriteLine($"A soma de {nA} + {nB} é Maior que C");
+                Console.WriteLine($"A soma de {nA} + {nB} é Maior que {nC}");
             }
             else if (numero < nC)
             {
-                Console.WriteLine($"A soma de {nA} + {nB} é Menor que C");
+                Console.WriteLine($"A soma de {nA} + {nB} é Menor que {nC}");
             }
 
             else if (numero == nC)
                     {
-                Console.WriteLine($"A soma de {nA} + {nB} é Igual que C");
+                Console.WriteLine($"A soma de {nA} + {nB} é Igual que {nC}");
             }
             
         }
