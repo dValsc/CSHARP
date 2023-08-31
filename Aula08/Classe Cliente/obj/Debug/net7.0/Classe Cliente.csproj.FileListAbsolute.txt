@@ -1,0 +1,14 @@
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\bin\Debug\net7.0\Classe Cliente.exe
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\bin\Debug\net7.0\Classe Cliente.deps.json
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\bin\Debug\net7.0\Classe Cliente.runtimeconfig.json
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\bin\Debug\net7.0\Classe Cliente.dll
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\bin\Debug\net7.0\Classe Cliente.pdb
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\obj\Debug\net7.0\Classe Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\obj\Debug\net7.0\Classe Cliente.AssemblyInfoInputs.cache
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\obj\Debug\net7.0\Classe Cliente.AssemblyInfo.cs
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\obj\Debug\net7.0\Classe Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\obj\Debug\net7.0\Classe Cliente.dll
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\obj\Debug\net7.0\refint\Classe Cliente.dll
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\obj\Debug\net7.0\Classe Cliente.pdb
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\obj\Debug\net7.0\Classe Cliente.genruntimeconfig.cache
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Cliente\obj\Debug\net7.0\ref\Classe Cliente.dll

@@ -1,0 +1,14 @@
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\bin\Debug\net7.0\classeproduto.exe
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\bin\Debug\net7.0\classeproduto.deps.json
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\bin\Debug\net7.0\classeproduto.runtimeconfig.json
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\bin\Debug\net7.0\classeproduto.dll
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\bin\Debug\net7.0\classeproduto.pdb
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\obj\Debug\net7.0\classeproduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\obj\Debug\net7.0\classeproduto.AssemblyInfoInputs.cache
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\obj\Debug\net7.0\classeproduto.AssemblyInfo.cs
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\obj\Debug\net7.0\classeproduto.csproj.CoreCompileInputs.cache
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\obj\Debug\net7.0\classeproduto.dll
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\obj\Debug\net7.0\refint\classeproduto.dll
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\obj\Debug\net7.0\classeproduto.pdb
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\obj\Debug\net7.0\classeproduto.genruntimeconfig.cache
+C:\Users\Valéria\Desktop\csharp\Aula08\Classe Produto\classeproduto\obj\Debug\net7.0\ref\classeproduto.dll
