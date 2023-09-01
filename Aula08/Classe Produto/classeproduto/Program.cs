@@ -17,6 +17,22 @@ namespace classeproduto
 
             regs2.Visualizar();
 
+            Jogo J1 = new Jogo("TV", 2, "AOC", "AB2", 2, "Vendido", 2.000M);
+
+            J1.Visualizar();
+
+            Jogo J2 = new Jogo("TV", 2, "AOC", "AB2", 2, "Vendido", 3.000M);
+
+            J2.Visualizar();
+
+            VideoGame VG1 = new VideoGame("Celular", 1, "Nokia", "AB1", 5, "Trânsito", "xbox");
+
+            VG1.Visualizar();
+
+            VideoGame VG2 = new VideoGame("TV", 2, "AOC", "AB2", 2, "Vendido","PS4");
+
+            VG2.Visualizar();
+
 
             while (true)
             {

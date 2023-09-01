@@ -17,6 +17,22 @@ namespace Classe_Cliente
 
             regs2.Visualizar();
 
+            PessoaFisica pf1 = new PessoaFisica("Ana", 1, "rua a, nº12, SP", 123456789, 121587633 - 66, "Acompanhando",24);
+
+            pf1.Visualizar();
+
+            Cliente pf2 = new PessoaFisica("Vania", 2, "rua b, nº13, RJ", 987654321, 789321546 - 66, "Finalizado",36);
+
+            pf2.Visualizar();
+
+            PessoaJuridica pj1 = new PessoaJuridica("Ana", 1, "rua a, nº12, SP", 123456789, 121587633 - 66, "Acompanhando", "Não");
+
+            pf1.Visualizar();
+
+            PessoaJuridica pj2 = new PessoaJuridica("Vania", 2, "rua b, nº13, RJ", 987654321, 789321546 - 66, "Finalizado", "Sim");
+
+            pf2.Visualizar();
+
 
             while (true)
             {
